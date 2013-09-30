@@ -1,0 +1,29 @@
+---
+layout: post
+title: "The Flaws of GTA V's Heists"
+date: 2013-09-29 22:05
+comments: true
+categories: [Games, Critique]
+---
+
+The Flaws of the GTA V Heist System
+
+In general the heist mechanic of GTA V is an exquisite improvement for the franchise. It lends a sense of empowerment to the player characters actions. While in previous missions it felt like you never really reached the top as you were constantly running errands for other people the heists, for the most part, feel like you are the mastermind. Each heist is planned by the player. You determine the approach, who you do it with, and the tools you will use. That coupled with the fact that the contact that oversees most of the heists feels more like a peer than a boss makes the heists extremely rewarding.
+
+But, the heist system has one major flaw that seriously cripples it. In order for these choices to feel like they are completely player driven they should feel like you are making the best decision with the information that should be available to you. Unfortunately the game often doesn't communicate aspects such as total cost for a particular approach with some approaches yielding substantially less in terms of reward, in some cases up to half of the other option. You don't usually find this out until after the mission which encompasses on average about 2 side missions and unless you are being very deliberate with your saves it leaves you stuck with your choice.
+
+Now, consequences for choices should be the pinnacle of any good game design. At the micro level you choose weapons and pay the consequences. Use a small cheap weapon and the fight it going to be more challenging, use a more powerful expensive weapon and you use precious ammunition that might be expensive or challenging to acquire. The difference with these choices is you have all the information available to make these decisions at the time you make the choice. Now, games can't be expected to server you every piece of information that might come into play. For instance, use that rocket launcher to knock a chopper out of the sky during a chase and you might find the next mission were you take on a tank more challenging, but in the moment these decisions make sense.
+
+With the heists despite two options for most of them, there seems to usually be a right way and a wrong way. Looking at the way these seem to be laid out and there is an obvious pattern. The stealthy clever way usually requires more resources and higher costs that cut into yields but typically don't require intense challenging combat. On the other hand the more aggressive approaches typically need less in the way of supplies and don't cut into profits. The balance here seems like it is difficulty for money. The more you are willing to challenge yourself the more you get as a pay out.
+
+The problem with this balance is that death is a relatively trivial penalty during a mission. In the overworld if you die you are revived at a hospital and $5000 is removed from your funds which is a pretty tidy sum for most of the game. During a mission you simply have to restart from a checkpoint, with full health even if you didn't have it at that point. This means that the more profitable missions are not that much more difficult and typically, at least in my opinion, less interesting.
+
+All of this would be pretty trivial if it weren't for the fact that money is not easily come by. I'd be willing to sacrifice a little profit for the sake of playing the game I want to play it if I felt like I had a equal chance later down the road to make that money. But, the game basically just compounds the problem. Stock investments either through natural market fluctuation, or the assassination missions (another gripe I have with frustratingly false sense of player choice) net larger rewards the more money you have and since the amount of money needed to purchase all the properties is fairly substantial leaves some players in a position were they are short of those funds.
+
+I'm not suggesting that every player should have the same experience and that every choice should result in equally fair rewards but there should be enjoyable options to achieve the same benefits, even if that requires a bit of a different path. What that path should not be is a painful slog of towing cars and crushing wrecks. I don't like feeling like I'm being punished for choosing an option that designers included in the game. Consequences do not have to be punishment.
+
+Extra...
+
+This is a phenomenon that is frustratingly common with many branching narrative type games. More prevalent in moral choice centered titles like Bioware titles. Typically the player chooses between being the good guy, giving the robbed woman her money back and getting a friendly pat on the head and a little internal sense of pride since the good deed is its own reward. That or they can take the low road and pocket the money netting themselves additional funding which feeds into experiencing more of the game. Too often one route offers an in game reward (usually the evil route) and the other relies on some sense of fulfillment emotionally. Games should have narratives and I believe they are better for them. But being games they are about resource management and skill and when one strategy results in an outcome that has no connection to game mechanics it falls flat.
+
+In football a coach chooses to run or pass the ball, each of these choices has a consequence and both can end in failure. However regardless of what choice is made the positive outcome for either is a benefit to the overall game. If that coach had to make a choice between progressing down the field or feeding orphans you might hope the coach feeds the orphans but it would feel a little unbalanced when your team misses the playoffs because of your altruistic coach.
